@@ -1,0 +1,31 @@
+10 Policy Rules for an EdTech Company
+
+1. Student Data Privacy
+All student and instructor data must be stored securely and handled in compliance with applicable data protection laws.
+
+2. Academic Integrity
+Users must not engage in plagiarism, cheating, or any form of academic misconduct while using the platform.
+
+3. Respectful Communication
+All communication between students, instructors, and staff must remain professional and respectful.
+
+4. Content Ownership
+Educational materials uploaded by instructors remain their intellectual property unless otherwise agreed upon.
+
+5. Platform Usage
+Users must use the platform only for educational purposes and avoid any illegal or harmful activities.
+
+6. Account Security
+Users are responsible for maintaining the confidentiality of their login credentials and account information.
+
+7. Attendance and Participation
+Students are expected to attend scheduled sessions regularly and participate actively in learning activities.
+
+8. Payment and Refund Policy
+Course fees must be paid on time, and refund requests will follow the company’s official refund guidelines.
+
+9. Anti-Discrimination Policy
+The company maintains a zero-tolerance policy for discrimination, harassment, or bullying of any kind.
+
+10. Compliance with Terms
+Violation of company policies may result in warnings, suspension, or permanent termination of access to the platform.
